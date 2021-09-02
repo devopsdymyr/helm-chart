@@ -3,23 +3,23 @@ entries:
   frontend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T02:56:17.34458065Z"
+    created: "2021-09-02T02:59:27.396818079Z"
     description: A Helm chart for Kubernetes
     digest: 61cf0614a4eb3919af897f6dcdb9dbb3bc65b125b5d30cf2d3c64350f542bb2b
     name: frontend
     type: application
     urls:
-    - https://devopsdymyr.github.io/helm-chart/frontend-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/frontend-0.1.0.tgz
     version: 0.1.0
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T02:56:17.345178181Z"
+    created: "2021-09-02T02:59:27.397430513Z"
     description: A Helm chart for Kubernetes
     digest: bd156f56650f1840a36ac74fc8a2b93566d04883ac739294b49d730ba2536eb9
     name: helm-chart-test
     type: application
     urls:
-    - https://devopsdymyr.github.io/helm-chart/helm-chart-test-0.1.0.tgz
+    - https://mattiaperi.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-02T02:56:17.34376934Z"
+generated: "2021-09-02T02:59:27.396007692Z"
