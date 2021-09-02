@@ -3,7 +3,7 @@ entries:
   backend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T03:09:47.467997518Z"
+    created: "2021-09-02T03:17:10.79140578Z"
     description: A Helm chart for Kubernetes
     digest: 9237bb45cb80bf91ed04056be9b7ef30256f96f3a412741770250ebf7ff77c3e
     name: backend
@@ -14,7 +14,7 @@ entries:
   frontend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T03:09:47.468606717Z"
+    created: "2021-09-02T03:17:10.79201665Z"
     description: A Helm chart for Kubernetes
     digest: 61cf0614a4eb3919af897f6dcdb9dbb3bc65b125b5d30cf2d3c64350f542bb2b
     name: frontend
@@ -25,7 +25,7 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-02T03:09:47.469229819Z"
+    created: "2021-09-02T03:17:10.792624932Z"
     description: A Helm chart for Kubernetes
     digest: bd156f56650f1840a36ac74fc8a2b93566d04883ac739294b49d730ba2536eb9
     name: helm-chart-test
@@ -33,4 +33,4 @@ entries:
     urls:
     - https://devopsdymyr.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-02T03:09:47.467180386Z"
+generated: "2021-09-02T03:17:10.788993574Z"
